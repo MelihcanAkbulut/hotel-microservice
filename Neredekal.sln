@@ -18,11 +18,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HotelService", "HotelServic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotelService.Application", "src\Services\HotelService\HotelService.Application\HotelService.Application.csproj", "{88C9C983-3A64-4FCE-9947-917573106201}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelService.Domain", "src\Services\HotelService\HotelService.Domain\HotelService.Domain.csproj", "{71D40A2C-DA00-42D3-8B5D-ED0C7440AC37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotelService.Domain", "src\Services\HotelService\HotelService.Domain\HotelService.Domain.csproj", "{71D40A2C-DA00-42D3-8B5D-ED0C7440AC37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelService.Infrastructure", "src\Services\HotelService\HotelService.Infrastructure\HotelService.Infrastructure.csproj", "{EA693F17-06C9-4A26-988B-5539A5E1EB77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotelService.Infrastructure", "src\Services\HotelService\HotelService.Infrastructure\HotelService.Infrastructure.csproj", "{EA693F17-06C9-4A26-988B-5539A5E1EB77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelService.API", "src\Services\HotelService\HotelService.API\HotelService.API.csproj", "{1AA4579A-8CD3-4EEB-BC4E-20323BEB9E6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotelService.Presentation", "src\Services\HotelService\HotelService.API\HotelService.Presentation.csproj", "{1AA4579A-8CD3-4EEB-BC4E-20323BEB9E6C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
